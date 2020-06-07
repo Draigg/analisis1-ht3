@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Black\\source\\repos\\V1\\V1\\V1.csproj": {}
+    "C:\\Users\\Black\\source\\repos\\V2\\V2\\V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Black\\source\\repos\\V1\\V1\\V1.csproj": {
+    "C:\\Users\\Black\\source\\repos\\V2\\V2\\V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Black\\source\\repos\\V1\\V1\\V1.csproj",
-        "projectName": "V1",
-        "projectPath": "C:\\Users\\Black\\source\\repos\\V1\\V1\\V1.csproj",
+        "projectUniqueName": "C:\\Users\\Black\\source\\repos\\V2\\V2\\V2.csproj",
+        "projectName": "V2",
+        "projectPath": "C:\\Users\\Black\\source\\repos\\V2\\V2\\V2.csproj",
         "packagesPath": "C:\\Users\\Black\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Black\\source\\repos\\V1\\V1\\obj\\",
+        "outputPath": "C:\\Users\\Black\\source\\repos\\V2\\V2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
